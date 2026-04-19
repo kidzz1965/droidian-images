@@ -7,7 +7,7 @@ xiaomi_citrus:
   edition: phosh
   variant: phone
   apilevel: 29
-  use_internal_repository: true
+  use_internal_repository: false
 
   packages:
     - adaptation-xiaomi-citrus
