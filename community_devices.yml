@@ -8,6 +8,7 @@ xiaomi_citrus:
   variant: phone
   apilevel: 29
   use_internal_repository: false
+  droidian_version: "101.20251130"
 
   packages:
     - adaptation-xiaomi-citrus
