@@ -12,3 +12,9 @@ xiaomi_citrus:
   packages:
     - adaptation-xiaomi-citrus
     - adaptation-xiaomi-citrus-configs
+    - linux-bootimage-4.19.325-xiaomi-citrus
+    - linux-bootimage-xiaomi-citrus
+    - linux-headers-4.19.325-xiaomi-citrus
+    - linux-headers-xiaomi-citrus
+    - linux-image-4.19.325-xiaomi-citrus
+    - linux-image-xiaomi-citrus
