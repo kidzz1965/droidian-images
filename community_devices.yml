@@ -7,7 +7,7 @@ xiaomi_citrus:
   edition: phosh
   variant: phone
   apilevel: 29
-  use_internal_repository: false
+  use_internal_repository: true
   droidian_version: "101.20251130"
 
   packages:
