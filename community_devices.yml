@@ -7,9 +7,15 @@ xiaomi_citrus:
   edition: phosh
   variant: phone
   apilevel: 29
-  use_internal_repository: true
+  use_internal_repository: false
   droidian_version: "101.20251130"
 
+  extra_repos:                          # ← tambah ini
+    - baseurl: https://kidzz1965.github.io/droidian-packages
+      suite: stable
+      components:
+        - main
+        
   packages:
     - adaptation-xiaomi-citrus
     - adaptation-xiaomi-citrus-configs
